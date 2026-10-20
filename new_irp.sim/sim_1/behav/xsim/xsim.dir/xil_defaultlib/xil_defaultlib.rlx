@@ -1,0 +1,10 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+G:/vivado_verilog/new_irp/clk_div.v,1688653641,verilog,,G:/vivado_verilog/new_irp/spi_controller.v,,clk_div,,,,,,,,
+G:/vivado_verilog/new_irp/new_irp.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+G:/vivado_verilog/new_irp/spi_controller.v,1688638228,verilog,,G:/vivado_verilog/new_irp/spi_master.v,,spi_controller,,,,,,,,
+G:/vivado_verilog/new_irp/spi_master.v,1688638799,verilog,,G:/vivado_verilog/new_irp/spi_top.v,,spi_master,,,,,,,,
+G:/vivado_verilog/new_irp/spi_top.v,1688638228,verilog,,G:/vivado_verilog/new_irp/spi_top_tb.v,,spi_top,,,,,,,,
+G:/vivado_verilog/new_irp/spi_top_tb.v,1688625728,verilog,,,,spi_top_tb,,,,,,,,

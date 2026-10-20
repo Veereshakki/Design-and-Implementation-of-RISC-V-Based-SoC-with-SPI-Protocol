@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/vivado_verilog/new_irp/clk_div.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_div
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/vivado_verilog/new_irp/spi_controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spi_controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/vivado_verilog/new_irp/spi_master.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spi_master
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/vivado_verilog/new_irp/spi_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spi_top
